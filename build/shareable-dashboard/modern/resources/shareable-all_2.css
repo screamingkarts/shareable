@@ -1,0 +1,1364 @@
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1394 */
+.x-button-soft-red.x-hovered {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1398 */
+.x-button-soft-red.x-hovered .x-inner-el {
+    border-color: #c81e2f;
+    background-color: #e02e41;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1403 */
+.x-button-soft-red.x-hovered .x-icon-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1407 */
+.x-button-soft-red.x-hovered .x-arrow-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1422 */
+.x-button-soft-red.x-pressing,
+.x-button-soft-red.x-pressed {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1425 */
+.x-button-soft-red.x-pressing .x-inner-el,
+.x-button-soft-red.x-pressed .x-inner-el {
+    border-color: #ad1a29;
+    background-color: #d11f31;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1430 */
+.x-button-soft-red.x-pressing .x-icon-el,
+.x-button-soft-red.x-pressed .x-icon-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1434 */
+.x-button-soft-red.x-pressing .x-arrow-el,
+.x-button-soft-red.x-pressed .x-arrow-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1458 */
+.x-keyboard-mode .x-button-soft-red.x-focused:after {
+    border-color: #fadbde;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:91 */
+.x-textfield-light .x-input {
+    border-color: #efefef;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:100 */
+.x-big .x-button-header .x-button-icon {
+    font-size: 18px;
+    font-weight: normal;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:495 */
+.x-treelist-navigation {
+    background-color: #32404e;
+    background-position: 44px 0%;
+    padding: 0 0 0 0;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:103 */
+.x-treelist-navigation .x-treelist-toolstrip {
+    background-color: #32404e;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:112 */
+.x-treelist-navigation .x-treelist-item-selected.x-treelist-item-tool {
+    background-color: #475360;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:117 */
+.x-treelist-navigation .x-treelist-item-selected.x-treelist-item-tool:after {
+    height: 64px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: " ";
+    width: 5px;
+    background-color: #35baf6;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:134 */
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row {
+    background-color: #475360;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:143 */
+.x-treelist-navigation .x-treelist-item-tool {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:150 */
+.x-treelist-navigation .x-treelist-item-tool-floated:after {
+    height: 64px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: " ";
+    width: 5px;
+    background-color: #35baf6;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:166 */
+.x-treelist-navigation .x-treelist-item-icon:before,
+.x-treelist-navigation .x-treelist-item-tool:before,
+.x-treelist-navigation .x-treelist-item-expander {
+    line-height: 64px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:178 */
+.x-treelist-navigation .x-treelist-item-icon,
+.x-treelist-navigation .x-treelist-item-tool,
+.x-treelist-navigation .x-treelist-item-expander {
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: 0 center;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:188 */
+.x-treelist-navigation .x-treelist-item-loading .x-treelist-item-icon {
+    background-image: url(images/tree/loading.gif);
+    color: transparent;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:193 */
+.x-treelist-navigation .x-treelist-item-icon,
+.x-treelist-navigation .x-treelist-item-tool {
+    color: #adb3b8;
+    font-size: 18px;
+    width: 44px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:206 */
+.x-treelist-navigation .x-treelist-item-tool {
+    width: 64px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:216 */
+.x-treelist-navigation .x-treelist-item-expander {
+    color: #fff;
+    font-size: 16px;
+    width: 24px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:253 */
+.x-treelist-navigation .x-treelist-item-text {
+    color: #adb3b8;
+    margin-left: 50px;
+    margin-right: 24px;
+    font-size: 14px;
+    line-height: 64px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:270 */
+.x-treelist-navigation .x-treelist-row {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:276 */
+.x-treelist-navigation .x-treelist-row-over:before,
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row:before {
+    content: " ";
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    width: 5px;
+    height: 100%;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:287 */
+.x-treelist-navigation .x-treelist-row-over:before {
+    background-color: transparent;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:291 */
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row-over:before {
+    background-color: #57c6f8;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:295 */
+.x-treelist-navigation .x-treelist-item-selected > .x-treelist-row:before {
+    background-color: #35baf6;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:301 */
+.x-treelist-navigation .x-treelist-item-floated .x-treelist-container {
+    width: auto;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:304 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-row {
+    background-color: #32404e;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:308 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-container {
+    margin-left: -10px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:311 */
+.x-big .x-treelist-navigation .x-treelist-item-floated > .x-treelist-container {
+    margin-left: -10px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:317 */
+.x-treelist-navigation .x-treelist-item-floated > * > * > .x-treelist-item-text {
+    margin-left: 0;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:321 */
+.x-treelist-navigation .x-treelist-item-floated > * .x-treelist-row {
+    cursor: pointer;
+    padding-left: 0;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:326 */
+.x-treelist-navigation .x-treelist-item-floated .x-treelist-row:before {
+    width: 0;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:330 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-row-over {
+    background-color: #32404e;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:333 */
+.x-treelist-navigation .x-treelist-item-floated > .x-treelist-row-over > * > .x-treelist-item-text {
+    color: #adb3b8;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:339 */
+.x-treelist-navigation .x-treelist-item-expanded {
+    background-color: #2c3845;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:357 */
+.x-treelist-navigation .x-treelist-highlight-path .x-treelist-item-over > * > * > .x-treelist-item-icon {
+    color: #fff;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:361 */
+.x-treelist-navigation .x-treelist-highlight-path .x-treelist-item-over > * > * > .x-treelist-item-text {
+    color: #d6d9dc;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:365 */
+.x-treelist-navigation .x-treelist-highlight-path .x-treelist-item-over > * > * > .x-treelist-item-expander {
+    color: #fff;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:372 */
+.x-treelist-navigation .x-treelist-row-over {
+    background-color: #3c4a57;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:376 */
+.x-treelist-navigation .x-treelist-row-over > * > .x-treelist-item-icon {
+    color: #fff;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:380 */
+.x-treelist-navigation .x-treelist-row-over > * > .x-treelist-item-text {
+    color: #d6d9dc;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:384 */
+.x-treelist-navigation .x-treelist-row-over > * > .x-treelist-item-expander {
+    color: #fff;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:391 */
+.x-treelist-navigation .x-treelist-expander-first .x-treelist-item-icon {
+    left: 24px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:400 */
+.x-treelist-navigation .x-treelist-expander-first .x-treelist-item-text {
+    margin-left: 74px;
+    margin-right: 0;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:410 */
+.x-treelist-navigation .x-treelist-expander-first .x-treelist-item-hide-icon > * > * > .x-treelist-item-text {
+    margin-left: 27px;
+}
+/* C:/Workspace/shareable/ext/packages/core/sass/src/list/TreeItem.scss:420 */
+.x-treelist-navigation .x-treelist-item-hide-icon > * > * > .x-treelist-item-text {
+    margin-left: 3px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:157 */
+a {
+    color: #35baf6;
+    text-decoration: none;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:162 */
+.main-container {
+    background-color: #f6f6f6;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:166 */
+.main-nav-container,
+.main-container {
+    height: calc(100vh - 65px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:171 */
+.phone .main-container {
+    height: calc(100vh - 56px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:175 */
+.phone .main-nav-container {
+    height: 100vh;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:182 */
+.x-ios .main-container,
+.x-ios .main-nav-container {
+    height: 100%;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:187 */
+.x-treelist-navigation:not(.x-treelist-floater) {
+    min-height: calc(100vh - 65px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:190 */
+.phone .x-treelist-navigation:not(.x-treelist-floater) {
+    min-height: calc(100vh - 56px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:195 */
+.x-treelist-navigation {
+    transition: width 0.3s;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:199 */
+.main-nav-container,
+.main-logo {
+    position: relative;
+    transition: width 0.3s;
+    width: 260px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:205 */
+.main-nav-collapsed {
+    width: 64px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:209 */
+.main-toolbar {
+    z-index: 1;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:212 */
+.main-toolbar > .x-inner {
+    padding: 0;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:217 */
+.main-logo,
+.main-toolbar {
+    height: 65px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:220 */
+.phone .main-logo,
+.phone .main-toolbar {
+    height: 56px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:225 */
+.x-big .main-toolbar,
+.main-toolbar {
+    border: none;
+    padding: 0 38px 0 0;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:230 */
+.main-nav-floated {
+    background-color: #32404e;
+    transition: left 0.3s;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    z-index: 10;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:239 */
+.main-nav-slid-out {
+    left: -260px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:247 */
+.small-image {
+    width: 35px;
+    height: 35px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:253 */
+.phone .main-toolbar {
+    padding-right: 16px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:257 */
+.phone .main-user-name {
+    display: none;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:261 */
+.phone .main-logo {
+    line-height: 56px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:264 */
+.phone .main-logo:before {
+    top: 15px;
+    background-size: 85%;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:272 */
+.main-nav-mask > .x-mask-inner {
+    display: none;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:276 */
+.main-logo {
+    background-color: #35baf6;
+    height: 65px;
+    line-height: 65px;
+    font-size: 16px;
+    color: #fff;
+    padding-left: 64px;
+    position: relative;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/main/Main.scss:286 */
+.main-logo:before {
+    content: " ";
+    position: absolute;
+    background-size: cover;
+    top: 19.5px;
+    left: 22px;
+    width: 17px;
+    height: 26px;
+    background: transparent url(images/company-logo.png) no-repeat center center;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:1 */
+.x-selected > .inbox-item {
+    background-color: #ffefbb;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:5 */
+.inbox-item {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+    overflow: auto;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:12 */
+.inbox-inner-row:after {
+    content: " ";
+    clear: both;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:17 */
+.inbox-from,
+.inbox-summary {
+    float: left;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:22 */
+.inbox-date,
+.inbox-favorite {
+    float: right;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:27 */
+.inbox-favorite-icon {
+    color: #facc6e;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:31 */
+.inbox-attachment {
+    padding-right: 10px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:35 */
+.inbox-summary {
+    width: calc(100vw - 6em);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:42 */
+.email-controls {
+    width: 30%;
+    min-width: 180px;
+    max-width: 240px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:48 */
+.email-controls-box {
+    margin: 0 20px 20px 0;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:54 */
+.email-friend {
+    overflow: auto;
+    padding: 20px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:59 */
+.email-friend:after {
+    content: " ";
+    clear: both;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:64 */
+.email-friend-name {
+    float: left;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:68 */
+.email-friend-status {
+    float: right;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:72 */
+.online > .email-friend-status {
+    color: green;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/email/Email.scss:76 */
+.offline > .email-friend-status {
+    color: #ddd;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/search/Users.scss:1 */
+.search-user-item {
+    overflow: hidden;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/search/Users.scss:7 */
+.search-user-title {
+    font-weight: 600;
+    line-height: 20px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/search/Users.scss:11 */
+.search-user-email {
+    margin-bottom: 5px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/search/Users.scss:15 */
+.search-user-image {
+    float: left;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/search/Users.scss:18 */
+.search-user-image > img {
+    border: 2px solid #ddd;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/search/Users.scss:23 */
+.search-user-content {
+    margin-left: 70px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/phone/search/Users.scss:26 */
+.search-user-content:after {
+    content: " ";
+    clear: both;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1239 */
+.x-button-launch {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1253 */
+.x-button-launch .x-inner-el {
+    border-width: 0;
+    border-color: #ebebeb;
+    background-color: #fff;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1267 */
+.x-button-launch.x-has-text .x-inner-el {
+    padding: 14px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1271 */
+.x-big .x-button-launch.x-has-text .x-inner-el {
+    padding: 14px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1277 */
+.x-button-launch .x-icon-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1327 */
+.x-button-launch .x-arrow-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1394 */
+.x-button-launch.x-hovered {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1398 */
+.x-button-launch.x-hovered .x-inner-el {
+    border-color: #dbdbdb;
+    background-color: #f0f0f0;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1403 */
+.x-button-launch.x-hovered .x-icon-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1407 */
+.x-button-launch.x-hovered .x-arrow-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1422 */
+.x-button-launch.x-pressing,
+.x-button-launch.x-pressed {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1425 */
+.x-button-launch.x-pressing .x-inner-el,
+.x-button-launch.x-pressed .x-inner-el {
+    border-color: #ccc;
+    background-color: #e0e0e0;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1430 */
+.x-button-launch.x-pressing .x-icon-el,
+.x-button-launch.x-pressed .x-icon-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1434 */
+.x-button-launch.x-pressing .x-arrow-el,
+.x-button-launch.x-pressed .x-arrow-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1458 */
+.x-keyboard-mode .x-button-launch.x-focused:after {
+    border-color: #35baf6;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/tablet/email/Email.scss:9 */
+.x-button-launch:after {
+    content: "\f054";
+    font-family: FontAwesome;
+    font-size: 80%;
+    position: absolute;
+    right: 12px;
+    vertical-align: middle;
+    color: silver;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1239 */
+.x-button-presence {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1253 */
+.x-button-presence .x-inner-el {
+    border-width: 0;
+    border-color: #ebebeb;
+    background-color: #fff;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1267 */
+.x-button-presence.x-has-text .x-inner-el {
+    padding: 14px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1271 */
+.x-big .x-button-presence.x-has-text .x-inner-el {
+    padding: 14px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1277 */
+.x-button-presence .x-icon-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1327 */
+.x-button-presence .x-arrow-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1394 */
+.x-button-presence.x-hovered {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1398 */
+.x-button-presence.x-hovered .x-inner-el {
+    border-color: #dbdbdb;
+    background-color: #f0f0f0;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1403 */
+.x-button-presence.x-hovered .x-icon-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1407 */
+.x-button-presence.x-hovered .x-arrow-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1422 */
+.x-button-presence.x-pressing,
+.x-button-presence.x-pressed {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1425 */
+.x-button-presence.x-pressing .x-inner-el,
+.x-button-presence.x-pressed .x-inner-el {
+    border-color: #ccc;
+    background-color: #e0e0e0;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1430 */
+.x-button-presence.x-pressing .x-icon-el,
+.x-button-presence.x-pressed .x-icon-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1434 */
+.x-button-presence.x-pressing .x-arrow-el,
+.x-button-presence.x-pressed .x-arrow-el {
+    color: #606060;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1458 */
+.x-keyboard-mode .x-button-presence.x-focused:after {
+    border-color: #35baf6;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/tablet/email/Email.scss:27 */
+.x-button-presence:after {
+    content: "\f111";
+    font-family: FontAwesome;
+    font-size: 80%;
+    position: absolute;
+    right: 12px;
+    color: silver;
+    top: 50%;
+    margin-top: -8px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/tablet/email/Email.scss:38 */
+.x-button-presence.online:after {
+    color: green;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/tablet/email/Email.scss:43 */
+.inbox-unread .inbox-from,
+.inbox-unread .inbox-title {
+    font-weight: 600;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/tablet/email/Email.scss:48 */
+.email-toolbox {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/tablet/email/Email.scss:54 */
+.friends-list .x-button {
+    display: block;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/authentication/AuthBase.scss:1 */
+.auth-locked-inner {
+    background-image: url('images/lock-screen-background.jpg');
+    background-size: cover;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/authentication/AuthBase.scss:4 */
+.auth-locked-inner .x-panel-inner.auth-locked-inner {
+    background-color: transparent;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/authentication/AuthBase.scss:9 */
+.lockscreen-header {
+    background-color: #35baf6;
+    color: white;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/authentication/AuthBase.scss:14 */
+.x-unsized .x-field-input {
+    min-width: 2em;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:3 */
+.dashboard > * > .x-inner,
+.dashboard > * > * > .x-inner {
+    padding: 20px 0 0 20px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:8 */
+.dashboard-item {
+    margin: 0 20px 20px 0;
+    float: left;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:13 */
+.small-100 {
+    width: calc(100% - 20px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:17 */
+.small-60 {
+    width: calc(60% - 20px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:21 */
+.small-50 {
+    width: calc(50% - 20px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:25 */
+.small-40 {
+    width: calc(40% - 20px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:29 */
+.small-20 {
+    width: calc(20% - 20px);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:33 */
+@media (min-width: 1000px) {
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:34 */
+    .big-100 {
+        width: calc(100% - 20px);
+    }
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:38 */
+    .big-60 {
+        width: calc(60% - 20px);
+    }
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:42 */
+    .big-50 {
+        width: calc(50% - 20px);
+    }
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:46 */
+    .big-40 {
+        width: calc(40% - 20px);
+    }
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:50 */
+    .big-33 {
+        width: calc(33.3% - 20px);
+    }
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:54 */
+    .big-20 {
+        width: calc(20% - 20px);
+    }
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:60 */
+.x-tool-wrench {
+    font-family: FontAwesome;
+    line-height: 1;
+    background: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-base/sass/etc/mixins/font-icon.scss:136 */
+.x-tool-wrench:before {
+    content: "\f0ad";
+    font-feature-settings: 'liga';
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:66 */
+.quick-graph-panel .x-panel-header {
+    padding-left: 1.375em;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:70 */
+.quick-graph-panel .x-panel-title-icon {
+    position: relative;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:73 */
+.quick-graph-panel .x-panel-title-icon:before {
+    position: absolute;
+    height: 1.875em;
+    width: 1.875em;
+    top: -0.4375em;
+    left: -0.4375em;
+    border-radius: 1.875em;
+    background-color: #f1f1f1;
+    line-height: 1.875em;
+    text-align: center;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Dashboard.scss:86 */
+.quick-graph-panel .x-panel-title-text {
+    padding-left: 0.53em;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:208 */
+.x-progress-plain {
+    min-height: 5px;
+    border-width: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:220 */
+.x-big .x-progress-plain {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:230 */
+.x-progress-plain .x-progress-bar {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:233 */
+.x-big .x-progress-plain .x-progress-bar {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Network.scss:10 */
+.top-info-container {
+    color: #4590d3;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Network.scss:12 */
+.top-info-container .inner {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Network.scss:19 */
+.dashboard-graph-analysis-left {
+    border-right: 1px solid #ddd;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Network.scss:23 */
+.graph-analysis-right-inner-container.right-value {
+    text-align: right;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Network.scss:27 */
+.graph-analysis-right {
+    padding-left: 15px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Network.scss:31 */
+@media (max-width: 699px) {
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Network.scss:32 */
+    .graph-analysis-right {
+        padding-left: 0;
+    }
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:1 */
+.services-text {
+    margin: 0 0 10px 5px;
+    max-height: 6.3em;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:8 */
+.services-legend {
+    white-space: nowrap;
+    overflow: hidden;
+    line-height: 1.15em;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:13 */
+.phone .services-legend {
+    display: none;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:17 */
+.services-legend .legend-item {
+    width: 33%;
+    display: inline-block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:24 */
+.services-legend .legend-icon {
+    width: 1.15em;
+    height: 1.15em;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.4em;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:32 */
+.services-legend .legend-text {
+    font-size: 0.85em;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:37 */
+@media (max-width: 400px) {
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:38 */
+    .services-legend {
+        display: none;
+    }
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:43 */
+@media (min-width: 401px) {
+    /* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:44 */
+    .x-big .services-text {
+        max-height: 5em;
+    }
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:208 */
+.x-progress-finance {
+    min-height: 5px;
+    border-width: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:220 */
+.x-big .x-progress-finance {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:230 */
+.x-progress-finance .x-progress-bar {
+    min-height: 5px;
+    background-color: #ffc000;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:233 */
+.x-big .x-progress-finance .x-progress-bar {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:208 */
+.x-progress-research {
+    min-height: 5px;
+    border-width: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:220 */
+.x-big .x-progress-research {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:230 */
+.x-progress-research .x-progress-bar {
+    min-height: 5px;
+    background-color: #6aa5db;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:233 */
+.x-big .x-progress-research .x-progress-bar {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:208 */
+.x-progress-marketing {
+    min-height: 5px;
+    border-width: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:220 */
+.x-big .x-progress-marketing {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:230 */
+.x-progress-marketing .x-progress-bar {
+    min-height: 5px;
+    background-color: #ee929c;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Progress.scss:233 */
+.x-big .x-progress-marketing .x-progress-bar {
+    min-height: 5px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:76 */
+.legend-finance {
+    background-color: #ffc000;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:79 */
+.legend-research {
+    background-color: #6aa5db;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:83 */
+.legend-marketing {
+    background-color: #ee929c;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:87 */
+.left-aligned-div {
+    float: left;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:91 */
+.right-aligned-div {
+    float: right;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:95 */
+.bottom-indent {
+    margin-bottom: 16px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/dashboard/Services.scss:99 */
+.service-marketing {
+    margin-bottom: 8px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:1 */
+.faq-title {
+    display: table;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:5 */
+.faq-expander,
+.faq-question {
+    display: table-cell;
+    font-size: 110%;
+    cursor: pointer;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:12 */
+.faq-expander {
+    width: 1.8em;
+    text-align: center;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:16 */
+.faq-expander:before {
+    content: "\f0da";
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:21 */
+.faq-expanded .faq-expander:before {
+    content: "\f0d7";
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:27 */
+.faq-question {
+    font-weight: 600;
+    line-height: 20px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:31 */
+.faq-body {
+    height: 0;
+    overflow: hidden;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:32 */
+.faq-body > div {
+    padding: 6px 0 10px 10px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/faq/Items.scss:39 */
+.faq-expanded .faq-body {
+    height: auto;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Finish.scss:1 */
+.finish-form {
+    color: red;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Finish.scss:5 */
+.finish-form-icon,
+.finish-form-title,
+.finish-form-text {
+    color: #888;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Finish.scss:11 */
+.finish-form-icon {
+    float: left;
+    font-size: 8em;
+    width: 1.1em;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Finish.scss:16 */
+.finish-form-icon:before {
+    content: "\f05d";
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Finish.scss:21 */
+.finish-form-title {
+    margin-top: 20px;
+    font-size: 200%;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Finish.scss:26 */
+.finish-form-text {
+    margin-top: 20px;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1239 */
+.x-button-wizard {
+    color: #fff;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1253 */
+.x-button-wizard .x-inner-el {
+    border-color: #3589d4;
+    background-color: #579ddb;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1277 */
+.x-button-wizard .x-icon-el {
+    color: #fff;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1327 */
+.x-button-wizard .x-arrow-el {
+    color: #fff;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1394 */
+.x-button-wizard.x-hovered {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1398 */
+.x-button-wizard.x-hovered .x-inner-el {
+    border-color: #297ac1;
+    background-color: #3e8ed6;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1403 */
+.x-button-wizard.x-hovered .x-icon-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1407 */
+.x-button-wizard.x-hovered .x-arrow-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1422 */
+.x-button-wizard.x-pressing,
+.x-button-wizard.x-pressed {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1425 */
+.x-button-wizard.x-pressing .x-inner-el,
+.x-button-wizard.x-pressed .x-inner-el {
+    border-color: #246aa8;
+    background-color: #2b7fca;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1430 */
+.x-button-wizard.x-pressing .x-icon-el,
+.x-button-wizard.x-pressed .x-icon-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1434 */
+.x-button-wizard.x-pressing .x-arrow-el,
+.x-button-wizard.x-pressed .x-arrow-el {
+    color: #f0f0f0;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1458 */
+.x-keyboard-mode .x-button-wizard.x-focused:after {
+    border-color: #ddebf8;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1239 */
+.x-tab-wizard {
+    color: #888;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1253 */
+.x-tab-wizard .x-inner-el {
+    background-color: #fff;
+    background-image: none;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1277 */
+.x-tab-wizard .x-icon-el {
+    color: #888;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Button.scss:1327 */
+.x-tab-wizard .x-arrow-el {
+    color: #888;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/tab/Tab.scss:1434 */
+.x-tab-wizard.x-active {
+    color: #579ddb;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Toolbar.scss:330 */
+.x-tabbar-wizard {
+    background-color: #fff;
+    background-image: none;
+    border-color: grey;
+}
+/* C:/Workspace/shareable/ext/modern/theme-neptune/sass/var/Toolbar.scss:344 */
+.x-tabbar-wizard .x-title {
+    color: #606060;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Wizard.scss:14 */
+.wizard .x-form-inner {
+    background-color: #fff;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/forms/Wizard.scss:19 */
+@media (max-width: 400px) {
+    /* C:/Workspace/shareable/modern/sass/src/view/forms/Wizard.scss:21 */
+    .wizard .x-tab-icon {
+        margin: 0;
+    }
+    /* C:/Workspace/shareable/modern/sass/src/view/forms/Wizard.scss:24 */
+    .wizard .x-tab .x-button-label {
+        display: none;
+    }
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/BlankPage.scss:1 */
+.blank-page-container {
+    text-align: center;
+    color: #cacaca;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/BlankPage.scss:4 */
+.blank-page-container .fa-outer-class {
+    margin: auto;
+    background-color: #ebebeb;
+    width: 10rem;
+    border-radius: 5rem;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/BlankPage.scss:9 */
+.blank-page-container .fa-outer-class .x-fa:before {
+    line-height: 10rem;
+    font-size: 12rem;
+    color: #cacaca;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/BlankPage.scss:15 */
+.blank-page-container h1 {
+    margin: 0.75rem;
+    font-size: 2.5rem;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/BlankPage.scss:19 */
+.blank-page-container .blank-page-text {
+    font-size: 1.5rem;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/ErrorBase.scss:1 */
+.error-page-container {
+    background-image: url('images/error-page-background.jpg');
+    background-size: cover;
+    color: #fff;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/ErrorBase.scss:7 */
+.error-page-top-text {
+    font-size: 10rem;
+    line-height: 10rem;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/pages/ErrorBase.scss:11 */
+.error-page-desc {
+    text-align: center;
+    font-size: 1.3rem;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/profile/UserProfile.scss:2 */
+.userProfile-container .userProfilePic {
+    border: 4px solid #ddd;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/profile/UserProfile.scss:7 */
+.userProfile-container .userProfileName {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #404040;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/profile/UserProfile.scss:14 */
+.userProfile-container .userProfileDesc {
+    color: #404040;
+    line-height: 16px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/profile/UserProfile.scss:21 */
+.userProfile-container .user-profile-desc .x-layout-box-item:before {
+    top: 0px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/profile/UserProfile.scss:26 */
+.userProfile-container .user-profile-desc .box {
+    display: flex;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:1 */
+.search-all {
+    background-color: #fff;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:4 */
+.search-all .search-result-item {
+    padding: 20px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:7 */
+.search-all .search-result-item .x-innerhtml {
+    padding: 0;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:12 */
+.search-all .search-result-item-selected .search-result-item {
+    background-color: #f2e3b2;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:16 */
+.search-all img {
+    margin: 10px 10px 0 0;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:20 */
+.search-all .list-cls {
+    font-weight: 600;
+    line-height: 20px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:24 */
+.search-all a {
+    text-decoration: none;
+    color: #35baf6;
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 3px;
+    display: inline-block;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:34 */
+.search-all .x-list-item .x-innerhtml {
+    font-size: 14px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/search/All.scss:39 */
+.search-all .x-dataview-inner {
+    width: 100% !important;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/BioTile.scss:3 */
+.bio-tile {
+    background-color: #fff;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/BioTile.scss:7 */
+.bio-banner {
+    background-color: #607d8b;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/BioTile.scss:11 */
+.bio-banner,
+.bio-image {
+    background-position: top left !important;
+    background-size: 100% auto !important;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/BioTile.scss:16 */
+.bio-image {
+    width: 66px;
+    height: 66px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    margin-left: -33px;
+    margin-top: -33px;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/BioTile.scss:25 */
+.bio-description {
+    padding-top: 41px;
+    text-align: center;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/BioTile.scss:30 */
+.bio-description > .x-innerhtml::first-line {
+    font-weight: 600;
+    font-size: 130%;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/SocialStatus.scss:1 */
+.social-status-header,
+.social-status-count {
+    text-align: center;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/SocialStatus.scss:5 */
+.social-status-category:not(:last-child) {
+    border-right: 1px solid #ddd;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/StatusTile.scss:1 */
+.status-tile {
+    background-color: #fff;
+    border: 3px solid transparent;
+    position: relative;
+    text-align: center;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/StatusTile.scss:8 */
+.status-tile-wrap {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/StatusTile.scss:13 */
+.status-tile-large > .status-tile-wrap {
+    font-size: 150%;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/StatusTile.scss:18 */
+.status-tile-quantity {
+    font-size: 250%;
+    font-weight: 500;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/StatusTile.scss:23 */
+.status-tile-icon-wrap {
+    font-size: 180%;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/StatusTile.scss:27 */
+.status-tile-icon-wrap,
+.status-tile-icon {
+    display: inline-block;
+}
+/* C:/Workspace/shareable/modern/sass/src/view/widgets/StatusTile.scss:32 */
+.status-tile-icon-first .status-tile-icon-wrap {
+    width: 2.4em;
+    height: 2.4em;
+    line-height: 2.4em;
+    color: #fff;
+    border-radius: 50%;
+}
